@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://shaihei.lanzous.com/b05s1zf5ahttps://shaihei.lanzous.com/b05s1zf5a
+  ROM_URL: https://shaihei.anzous.com/b05s1zf5ahttps://shaihei.lanzous.com/b05s1zf5a
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
